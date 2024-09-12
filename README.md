@@ -5,12 +5,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-smart/simple-template/HEAD?labpath=book%2Fchapters)
 [![GeoSMART Use Case](./book/img/use_case_badge.svg)](https://geo-smart.github.io/usecases)
 
-This repository stores a skeleton of a GeoSMART use case book.<br>
 
-1. Click "Use This Template" and name your repository
-
-2. In your repository edit book/_config.yml
-
-3. Under your repository Settings --> Pages --> Source = GitHub Actions
-
-3. Edit environment.yml, modify notebooks, and your JupyterBook will be published for you! 
